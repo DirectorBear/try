@@ -1,2 +1,2 @@
 # try
-Try to learn program.
+Try to learn programming.
